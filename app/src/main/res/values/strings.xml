@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarsRestful</string>
+    <string name="car_image">Car Image</string>
+</resources>
